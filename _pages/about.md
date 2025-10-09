@@ -23,7 +23,7 @@ Yi SUN's research interest includes Information Security, Privacy Computing, Art
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about secure synthetic data generation has been accepted by Information Fusion! 
+- *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by Information Fusion! 
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by Computer Networks!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by Computers and Security!
   

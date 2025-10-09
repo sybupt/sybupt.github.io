@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. Yi SUN is the IEEE member, CCF member, member of the Chinese Cryptography Society, member of the Chinese Association for Artificial Intelligence, Honorary Member of the Beijing IoT Association.
+Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
 
 Yi SUN serves as the Associate Editor for Wireless Communications and Mobile Computing Journal, Journal of Circuits, Systems and Computers, Computing Open. She is a Guest Editor for Electronic Markets, ACM/Springer Mobile Networks & Applications, etc. She is the TPC of IEEE GLOBECOM 2021-WS01, and the PC of the ICME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, 33rd USENIX Security-2024. She is the Area Chair of ICAIIC-2023. 
 

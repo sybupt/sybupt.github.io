@@ -1,4 +1,4 @@
-<img width="427" height="491" alt="469b41cb-de2f-4eb6-9c93-d02a20d3aef5" src="https://github.com/user-attachments/assets/ba96d0e8-0090-4d89-95e1-c65d49d4234e" />---
+---
 permalink: /
 title: ""
 excerpt: ""

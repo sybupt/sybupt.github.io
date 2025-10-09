@@ -1,4 +1,4 @@
----
+<img width="427" height="491" alt="469b41cb-de2f-4eb6-9c93-d02a20d3aef5" src="https://github.com/user-attachments/assets/ba96d0e8-0090-4d89-95e1-c65d49d4234e" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -16,12 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About me
 Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
-
-Yi SUN serves as the Associate Editor for Wireless Communications and Mobile Computing Journal, Journal of Circuits, Systems and Computers, Computing Open. She is a Guest Editor for Electronic Markets, ACM/Springer Mobile Networks & Applications, etc. She is the TPC of IEEE GLOBECOM 2021-WS01, and the PC of the ICME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, 33rd USENIX Security-2024. She is the Area Chair of ICAIIC-2023. 
-
-Yi SUN has authored or co-authored 100+ papers in peer-reviewed journals and conferences, including four ESI highly cited paper. She has received 8+ awards and 40+ funds from the governments and associations. She has won the honors of "Outstanding Scientific Research Teacher" in 2020, "Outstanding Instructor" in 2021, "Top 10 Pioneers of Privacy-preserving Computing "in 2022, "Outstanding Instructor" in 2023, and she is the winner of "2023 Capital Frontier Academic Achievement". She has published more than 40 high-level papers, including INFFUS, T-ITS, TII, IOT-J, JAS and other top journals. 
 
 Yi SUN's research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
 

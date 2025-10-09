@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. Yi SUN is the IEEE member, CCF member, member of the Chinese Cryptography Society, member of the Chinese Association for Artificial Intelligence, Honorary Member of the Beijing IoT Association.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Yi SUN serves as the Associate Editor for Wireless Communications and Mobile Computing Journal, Journal of Circuits, Systems and Computers, Computing Open. She is a Guest Editor for Electronic Markets, ACM/Springer Mobile Networks & Applications, etc. She is the TPC of IEEE GLOBECOM 2021-WS01, and the PC of the ICME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, 33rd USENIX Security-2024. She is the Area Chair of ICAIIC-2023. 
+
+Yi SUN has authored or co-authored 100+ papers in peer-reviewed journals and conferences, including four ESI highly cited paper. She has received 8+ awards and 40+ funds from the governments and associations. She has won the honors of "Outstanding Scientific Research Teacher" in 2020, "Outstanding Instructor" in 2021, "Top 10 Pioneers of Privacy-preserving Computing "in 2022, "Outstanding Instructor" in 2023, and she is the winner of "2023 Capital Frontier Academic Achievement". She has published more than 40 high-level papers, including INFFUS, T-ITS, TII, IOT-J, JAS and other top journals. 
+
+Yi SUN's research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about secure synthetic data generation has been accepted by Information Fusion! 
+- *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by Computer Networks!  
+- *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by Computers & Security!
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

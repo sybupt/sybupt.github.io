@@ -74,7 +74,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/Wang1.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
   
-- [Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs](https://doi.org/10.1109/JIOT.2025.3592453), 3.	Bo WANG, Chao WANG, Zan ZHOU, **Yi SUN**, Shujie YANG, Yonghui HUANG, Yuning CUI, Yuchen WANG, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao XU, **IEEE Internet of Things Journal**, **2025**.
+- [Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs](https://doi.org/10.1109/JIOT.2025.3592453), Bo WANG, Chao WANG, Zan ZHOU, **Yi SUN**, Shujie YANG, Yonghui HUANG, Yuning CUI, Yuchen WANG, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao XU, **IEEE Internet of Things Journal**, **2025**.
 
 </div>
 </div>

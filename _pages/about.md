@@ -58,7 +58,7 @@ Zirun Zhao, Zhaowen Lin, **Yi SUN**
 </div>
 </div>
 
-- Zirun Zhao, Zhaowen Lin, **Yi SUN**, ADPF: Anti-inference differentially private protocol for federated learning, Computer Networks,[(https://doi.org/10.1016/j.comnet.2025.111130)], **2025**
+- Zirun Zhao, Zhaowen Lin, **Yi SUN**, ADPF: Anti-inference differentially private protocol for federated learning, Computer Networks,[https://doi.org/10.1016/j.comnet.2025.111130], **2025**
 
 
 # 🎖 Honors and Awards

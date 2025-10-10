@@ -46,6 +46,14 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 # 📚 Publications 
 **2025**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Differentially private synthetic data generation for robust information fusion](https://doi.org/10.1016/j.inffus.2025.103373), Xiaohong CAI, **Yi SUN**, Zhaowen LIN, Ripeng LI, Tianwei CAI, **Information Fusion**, **2025**.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/5.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,14 +67,6 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 <div class='paper-box-text' markdown="1">
 
 - [A combined side-channel and transient execution attack scheme on RISC-V processors](https://doi.org/10.1016/j.cose.2024.104297), Renhai DONG, Baojiang CUI, **Yi SUN** and Jun YANG, **Computer and Security**, **2025**.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
-<div class='paper-box-text' markdown="1">
-  
-- [Differentially private synthetic data generation for robust information fusion](https://doi.org/10.1016/j.inffus.2025.103373), Xiaohong CAI, **Yi SUN**, Zhaowen LIN, Ripeng LI, Tianwei CAI, **Information Fusion**, **2025**.
 
 </div>
 </div>

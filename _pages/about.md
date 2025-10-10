@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 📝 About me
+# About me
 Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
 
 Her research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
@@ -28,7 +28,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by **Computers and Security**!
 
-# 📖 Editor Service
+# 📝 Editor Service
 - **Associate Editor**: **Wireless Communications and Mobile Computing Journal**
 - **Associate Editor**: **Journal of Circuits, Systems and Computers**
 - **Associate Editor**: **Computing Open**
@@ -58,7 +58,7 @@ Zirun Zhao, Zhaowen Lin, **Yi SUN**
 </div>
 </div>
 
-- [Zirun Zhao, Zhaowen Lin, **Yi SUN**, ADPF: Anti-inference differentially private protocol for federated learning, Computer Networks](https://doi.org/10.1016/j.comnet.2025.111130), **2025**
+- Zirun Zhao, Zhaowen Lin, **Yi SUN**, ADPF: Anti-inference differentially private protocol for federated learning, Computer Networks,[(https://doi.org/10.1016/j.comnet.2025.111130)], **2025**
 
 
 # 🎖 Honors and Awards
@@ -66,7 +66,7 @@ Zirun Zhao, Zhaowen Lin, **Yi SUN**
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-# 💬 Invited Talks
+# 💬📖 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 

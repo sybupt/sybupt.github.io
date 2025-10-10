@@ -45,7 +45,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/android-chrome-192x192-1' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/android-chrome-512x512-1' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ADPF: Anti-inference differentially private protocol for federated learning](https://www.sciencedirect.com/science/article/pii/S1389128625000982)

@@ -71,8 +71,13 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 </div>
 
-- [ADPF: Anti-inference differentially private protocol for federated learning](https://www.sciencedirect.com/science/article/pii/S1389128625000982), Zirun Zhao, Zhaowen Lin, **Yi SUN**, Computer Networks, **2025**
-- [ADPF: Anti-inference differentially private protocol for federated learning](https://www.sciencedirect.com/science/article/pii/S1389128625000982), Zirun Zhao, Zhaowen Lin, **Yi SUN**, Computer Networks, **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
+<div class='paper-box-text' markdown="1">
+  
+- [Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs](https://doi.org/10.1109/JIOT.2025.3592453), 3.	Bo WANG, Chao WANG, Zan ZHOU, **Yi SUN**, Shujie YANG, Yonghui HUANG, Yuning CUI, Yuchen WANG, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao XU, **IEEE Internet of Things Journal**, **2025**.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

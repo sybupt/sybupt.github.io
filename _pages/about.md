@@ -55,7 +55,13 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/Dong3.png' alt="sym" width="100%"> </div></div>
+<div class='paper-box-text' markdown="1">
 
+- [A combined side-channel and transient execution attack scheme on RISC-V processors](https://doi.org/10.1016/j.cose.2024.104297), Renhai DONG, Baojiang CUI, **Yi SUN** and Jun YANG, Computer and Security, **2025**.
+
+</div>
+</div>
 - [ADPF: Anti-inference differentially private protocol for federated learning](https://www.sciencedirect.com/science/article/pii/S1389128625000982), Zirun Zhao, Zhaowen Lin, **Yi SUN**, Computer Networks, **2025**
 
 

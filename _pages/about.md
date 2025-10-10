@@ -23,10 +23,10 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation” in CMC-Computers, Materials & Continua which leaded by Dr. Yi SUN and Dr. Limei PENG.
-- *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by Information Fusion! 
-- *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by Computer Networks!  
-- *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by Computers and Security!
+- *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*” in **CMC-Computers, Materials and Continua** which leaded by Dr. Yi SUN and Dr. Limei PENG.
+- *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by **Information Fusion**! 
+- *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
+- *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by **Computers and Security**!
 
 # 📖 Editor Service
 - **Associate Editor**, **Wireless Communications and Mobile Computing Journal**
@@ -38,7 +38,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **Guest Editor**, Computational Intelligence and Neuroscience, https://onlinelibrary.wiley.com/doi/toc/10.1155/8483.si.458912?msockid=20820ee7212664952bae1c662008654, Advances in Medical Imaging Informatics with Artificial Intelligence and Big Data Analytics, 18 September 2024.
 - **Guest Editor**, Sustainability, https://www.mdpi.com/journal/sustainability/special_issues/develop_sustainable_networks, Security Technology-Driven Development for Sustainable Networks, 30 March 2023.
 - **Area Chair**, ICAIIC-2023(The 5th International Conference on Artificial Intelligence in Information and Communication), 2023.icaiic.org.
-- **Area Chair**, ISAICS 2025(The 2th International Conference on Artificial Intelligence and Cybersecurity), https://s.eqxiu.com/s/SZVwzsY9?bt=yxy\&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986.
+- **Area Chair**, ISAICS 2025(The 2th International Conference on Artificial Intelligence and Cybersecurity), https://s.eqxiu.com/s/SZVwzsY9?bt=yxy&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986.
 - **Area Chair**, ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security, www.bctis.net.
 - **TPC/PC**, IEEE GLOBECOM 2021-WS01, CME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, 33rd USENIX Security-2024.
 

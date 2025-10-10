@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi SUN"
-description              : "Associate Professor"
+description              : "No.10 Xitucheng Rd, Haidian District, Beijing University of Posts and Telecommunications, Beijing 100876, China"
 repository               : "sybupt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi SUN"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing University of Posts and Telecommunications"
+  bio              : "Associate Professor"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

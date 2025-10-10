@@ -19,7 +19,7 @@ redirect_from:
 # About me
 Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
 
-Yi SUN's research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
+Her research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
 
 
 # 🔥 News

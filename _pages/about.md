@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About me
+# 📝 About me
 Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
 
 Her research interest includes Information Security, Privacy Computing, Artificial Intelligence Security, World Model.
@@ -43,7 +43,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **TPC/PC**: **IEEE GLOBECOM 2021-WS01**, CME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, **33rd USENIX Security-2024**.
 
  
-# 📝 Publications 
+# 📚 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/android-chrome-512x512-1' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +53,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 Zirun Zhao, Zhaowen Lin, **Yi SUN**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>

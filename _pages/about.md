@@ -23,6 +23,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation” in CMC-Computers, Materials & Continua which leaded by Dr. Yi SUN and Dr. Limei PENG.
 - *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by Information Fusion! 
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by Computer Networks!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by Computers and Security!

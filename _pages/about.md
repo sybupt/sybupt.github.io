@@ -79,7 +79,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 </div>
 
-# 🎖💼 Honors and Awards
+# 🎖 Honors and Awards
 - *To be updated* 
 
 

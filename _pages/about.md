@@ -28,7 +28,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by **Computers and Security**!
 
-#  Academic Services
+# 📝 Academic Services
 - **Associate Editor**: **Wireless Communications and Mobile Computing Journal**
 - **Associate Editor**: **Journal of Circuits, Systems and Computers**
 - **Associate Editor**: **Computing Open**
@@ -79,7 +79,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 </div>
 
-# 🎖📝 Honors and Awards
+# 🎖💼 Honors and Awards
 - *To be updated* 
 
 

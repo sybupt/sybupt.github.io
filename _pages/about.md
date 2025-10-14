@@ -45,7 +45,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
  
 # 📚 Publications 
 
-**2025 Selected Publications**
+**2025**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">

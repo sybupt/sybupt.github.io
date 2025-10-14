@@ -44,7 +44,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
  
 # 📚 Publications 
-**2025**
+**Selected Publications**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,6 +78,16 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 </div>
 </div>
+
+**2025**
+
+- Zirun Zhao, Zhaowen Lin, **Yi Sun**: ADPF: Anti-inference differentially private protocol for federated learning. Computer Networks 261: 111130 (2025)
+- Cai Xiaohong, **Yi Sun**, Zhaowen Lin, Ripeng Li, Tianwei Cai: Differentially private synthetic data generation for robust information fusion. Information Fusion 124: 103373 (2025)
+- Bo Wang, Chao Wang, Zan Zhou, **Yi Sun**, Shujie Yang, Yonghui Huang, Yuning Cui, Yuchen Wang, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao Xu: Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs. IEEE Internet of Things Journal. 12(19): 40894-40905 (2025)
+- Shaolong Chen, Sizhe Huang, Zan Zhou, Xiping Li, Shujie Yang, **Yi Sun**, Changqiao Xu: A Fairness-aware Incentive Framework for Heterogeneous Federated Learning with Bifurcated Reverse Auction Design. WCNC 2025: 1-6(2025)
+
+
+
 
 # 🎖 Honors and Awards
 - *To be updated* 

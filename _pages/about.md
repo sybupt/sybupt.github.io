@@ -81,19 +81,6 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 
 
-**2025**
-- Zirun Zhao, Zhaowen Lin, **Yi Sun**: ADPF: Anti-inference differentially private protocol for federated learning. Computer Networks 261: 111130 (2025)
-- Cai Xiaohong, **Yi Sun**, Zhaowen Lin, Ripeng Li, Tianwei Cai: Differentially private synthetic data generation for robust information fusion. Information Fusion 124: 103373 (2025)
-- Bo Wang, Chao Wang, Zan Zhou, **Yi Sun**, Shujie Yang, Yonghui Huang, Yuning Cui, Yuchen Wang, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao Xu: Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs. IEEE Internet of Things Journal. 12(19): 40894-40905 (2025)
-- Shaolong Chen, Sizhe Huang, Zan Zhou, Xiping Li, Shujie Yang, **Yi Sun**, Changqiao Xu: A Fairness-aware Incentive Framework for Heterogeneous Federated Learning with Bifurcated Reverse Auction Design. WCNC 2025: 1-6(2025)
-
-**2024**
--Renhai Dong, Baojiang Cui, **Yi Sun**, Jun Yang: Ins Finder: A Practical CPU Undocumented Instruction Detection Framework. J. Circuits Syst. Comput. 33(3) (2024)
--Zirun Zhao, Yi Sun, Ali Kashif Bashir, Zhaowen Lin: AdaDpFed: A Differentially Private Federated Learning Algorithm With Adaptive Noise on Non-IID Data. IEEE Trans. Consumer Electron. 70(1): 2536-2545 (2024)
-
-
-
-
 # 🎖 Honors and Awards
 - *To be updated* 
 

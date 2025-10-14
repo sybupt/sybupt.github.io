@@ -46,6 +46,31 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 # 📚 Publications 
 
 **2025**
+**2025**
+- Zirun Zhao, Zhaowen Lin, **Yi Sun**: ADPF: Anti-inference differentially private protocol for federated learning. Computer Networks 261: 111130 (2025)
+- Cai Xiaohong, **Yi Sun**, Zhaowen Lin, Ripeng Li, Tianwei Cai: Differentially private synthetic data generation for robust information fusion. Information Fusion 124: 103373 (2025)
+- Bo Wang, Chao Wang, Zan Zhou, **Yi Sun**, Shujie Yang, Yonghui Huang, Yuning Cui, Yuchen Wang, Yasser D. Al-Otaibi, Ali Kashif Bashir, Changqiao Xu: Automatic Toxicity Evaluation for Human-LLM Conversations in Flexible Manufacturing System With Duplex Fine-Tuned LLMs. IEEE Internet of Things Journal. 12(19): 40894-40905 (2025)
+- Shaolong Chen, Sizhe Huang, Zan Zhou, Xiping Li, Shujie Yang, **Yi Sun**, Changqiao Xu: A Fairness-aware Incentive Framework for Heterogeneous Federated Learning with Bifurcated Reverse Auction Design. WCNC 2025: 1-6(2025)
+
+**2024**
+- Renhai Dong, Baojiang Cui, **Yi Sun**, Jun Yang: Ins Finder: A Practical CPU Undocumented Instruction Detection Framework. J. Circuits Syst. Comput. 33(3) (2024)
+- Zirun Zhao, **Yi Sun**, Ali Kashif Bashir, Zhaowen Lin: AdaDpFed: A Differentially Private Federated Learning Algorithm With Adaptive Noise on Non-IID Data. IEEE Trans. Consumer Electron. 70(1): 2536-2545 (2024)
+- **Yi Sun**, Kaixiang Lin, Ali Kashif Bashir: KeyLight: Intelligent Traffic Signal Control Method Based on Improved Graph Neural Network. IEEE Trans. Consumer Electron. 70(1): 2861-2871 (2024)
+- Renhai Dong, Baojiang Cui, **Yi Sun**, Jun Yang: BTIDEC: A Novel Detection Scheme for CPU Security of Consumer Electronics. IEEE Trans. Consumer Electron. 70(1): 4515-4523 (2024)
+- Changjun Ren, Lin Yan, Shujie Yang, Zan Zhou, **Yi Sun**: Unveiling the Power of Collaboration: Detect DDoS Attacks on Proxies through Moving Target Defense with Multi-Proxy Synergy. NaNA 2024: 112-117（2024）
+
+
+**2023**
+- Yuning Cui, **Yi Sun**, Zhaowen Lin: DroidHook: a novel API-hook based Android malware dynamic analysis sandbox. Autom. Softw. Eng. 30(1): 10 (2023)
+- Yuning Cui, **Yi Sun**, Zhaowen Lin, Baoquan Ma, Yujie Li: Potentially Unwanted App Detection for Blockchain-Based Android App Marketplace. IEEE Internet Things J. 10(24): 21154-21167 (2023)
+- Yu Tang, Jiawen Yan, Chinmay Chakraborty, **Yi Sun**: Hedera: A Permissionless and Scalable Hybrid Blockchain Consensus Algorithm in Multiaccess Edge Computing for IoT. IEEE Internet Things J. 10(24): 21187-21202 (2023)
+- Yu Tang, **Yi Sun**, Bin Ning, Jun Wun, Zhaowen Lin: DRMT: A Decentralized IoT Device Recognition and Management Technology in Smart Cities. J. Circuits Syst. Comput. 32(11): 2350194:1-2350194:25 (2023)
+- **Yi Sun**, Keping Yu, Ali Kashif Bashir, Xin Liao: Bl-IEA: A Bit-Level Image Encryption Algorithm for Cognitive Services in Intelligent Transportation Systems. IEEE Trans. Intell. Transp. Syst. 24(1): 1062-1074 (2023)
+- Cai Xiaohong, **Yi Sun**, Zhaowen Lin, Muhammad Imran, Keping Yu: Web-based practical privacy-preserving distributed image storage for financial services in cloud computing. World Wide Web (WWW) 26(3): 1223-1241 (2023)
+- **Yi Sun**, Tong Xu, Ali Kashif Bashir, Jie Liu, Marwan Omar: BcIIS: Blockchain-Based Intelligent Identification Scheme of Massive IoT Devices. GLOBECOM 2023: 1277-1282（2023）
+**2022**
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">

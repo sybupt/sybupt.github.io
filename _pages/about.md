@@ -42,7 +42,12 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **Area Chair**: [ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security](www.bctis.net).
 - **TPC/PC**: **IEEE GLOBECOM 2021-WS01**, CME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, **33rd USENIX Security-2024**.
 
- 
+# 🎖 Honors and Awards
+- **2020**： Outstanding Scientific Research Teacher
+- **2021**： Outstanding Instructor
+- **2022**： Top 10 Pioneers of Privacy-preserving Computing
+- **2023**： Capital Frontier Academic Achievement
+
 # 📚 Publications 
 
 **2025**
@@ -78,13 +83,3 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- *To be updated* 
-
-
-# 📖📝 Invited Talks
-- *To be updated*, \| [\[video\]](https://github.com/)
-
-# 💻📝 Internships
-- *To be updated*

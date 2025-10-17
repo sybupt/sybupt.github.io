@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 # About me
 Yi SUN received her Ph.D. degree in Computer Science and Technology from Beijing University of Posts and Telecommunications, Beijing, China, in 2015. She is currently an Associate Professor at the School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications. 
 
@@ -49,6 +50,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **2023**： *Capital Frontier Academic Achievement*
 
 # 📚 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
   

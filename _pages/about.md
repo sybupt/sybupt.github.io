@@ -49,7 +49,6 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **2023**： *Capital Frontier Academic Achievement*
 
 # 📚 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
   

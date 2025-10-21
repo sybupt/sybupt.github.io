@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi SUN@BUPT"
+title                    : "Yi SUN"
 description              : "No.10 Xitucheng Rd, Haidian District, Beijing University of Posts and Telecommunications, Beijing 100876, China"
 repository               : "sybupt.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yi SUN"
+  name             : "Yi SUN @ BUPT"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Associate Professor"
   location         : "Beijing, China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AIeMFskAAAAJ&hl=zh-CN"
   email            : "sybupt@bupt.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yi-Sun-53"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/65/2709-6.html"
+  orcid            : "https://orcid.org/0000-0002-1427-8682 "
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -59,7 +59,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/5.png' alt="sym" width="100%"> </div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer Networks</div><img src='images/Zhao1.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
 
 - [ADPF: Anti-inference differentially private protocol for federated learning](https://www.sciencedirect.com/science/article/pii/S1389128625000982), Zirun Zhao, Zhaowen Lin, **Yi SUN**, **Computer Networks**, **2025**.

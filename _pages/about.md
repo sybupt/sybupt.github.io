@@ -33,6 +33,12 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - [Blockchain-based Cross-domain Sensitive Data Sharing and Privacy Protection Technology](https://xintan.bupt.edu.cn/info/1084/2591.htm)
 - [Privacy Computing in Secure Circulation of Data](https://sem.bupt.edu.cn/info/1354/7821.htm)
 
+# 🎖 Honors and Awards
+- **2020**： **Outstanding Scientific Research Teacher**
+- **2021**： **Outstanding Instructor**
+- **2022**： **Top 10 Pioneers of Privacy-preserving Computing**
+- **2023**： **Capital Frontier Academic Achievement**
+
 # 📝 Academic Services
 - **Associate Editor**: **Wireless Communications and Mobile Computing Journal**
 - **Associate Editor**: **Journal of Circuits, Systems and Computers**
@@ -46,12 +52,6 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - **Area Chair**: [ISAICS-2025(The 2th International Conference on Artificial Intelligence and Cybersecurity)](https://s.eqxiu.com/s/SZVwzsY9?bt=yxy&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986).
 - **Area Chair**: [ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security](www.bctis.net).
 - **TPC/PC**: **IEEE GLOBECOM 2021-WS01**, CME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, **33rd USENIX Security-2024**.
-
-# 🎖 Honors and Awards
-- **2020**： *Outstanding Scientific Research Teacher*
-- **2021**： *Outstanding Instructor*
-- **2022**： *Top 10 Pioneers of Privacy-preserving Computing*
-- **2023**： *Capital Frontier Academic Achievement*
 
 # 📚 Publications 
 

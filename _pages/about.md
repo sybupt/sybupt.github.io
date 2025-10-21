@@ -86,7 +86,8 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 
 # 📖 Invited Talks
-- *To be updated*, \| [\[video\]](https://github.com/)
+- [Blockchain-based Cross-domain Sensitive Data Sharing and Privacy Protection Technology](https://xintan.bupt.edu.cn/info/1084/2591.htm)
+- [Privacy Computing in Secure Circulation of Data](https://sem.bupt.edu.cn/info/1354/7821.htm)
 
 # 💻 Internships
 - *To be updated*

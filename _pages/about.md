@@ -24,7 +24,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 
 Email: sybupt@bupt.edu.cn
 
-**Note**: I’m actively looking for self-motivated students and researchers to collaborate on frontier topics in Information Security, Privacy Computing, Artificial Intelligence Security, World Model etc. related research. If you’re interested in my research directions, please feel free to reach out to me.
+**Note**: I’m actively looking for self-motivated students and researchers to collaborate on frontier topics in Information Security and World Model related research. If you’re interested in my research directions, please feel free to reach out to me.
 
 
 # 🔥 News

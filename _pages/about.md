@@ -29,7 +29,7 @@ Her research interest includes Information Security, Privacy Computing, Artifici
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by **Computers and Security**!
 
-# 💼 Invited Talks
+# 🎤 Invited Talks
 - [Blockchain-based Cross-domain Sensitive Data Sharing and Privacy Protection Technology](https://xintan.bupt.edu.cn/info/1084/2591.htm)
 - [Privacy Computing in Secure Circulation of Data](https://sem.bupt.edu.cn/info/1354/7821.htm)
 

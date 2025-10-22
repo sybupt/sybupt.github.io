@@ -37,6 +37,8 @@ Email: sybupt@bupt.edu.cn
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sunyi1.png' alt="sym" width="50%"> </div></div>
 <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sunyi2.png' alt="sym" width="50%"> </div></div>
+<div class='paper-box-text' markdown="1">
 
 - [Blockchain-based Cross-domain Sensitive Data Sharing and Privacy Protection Technology](https://xintan.bupt.edu.cn/info/1084/2591.htm)
 - [Privacy Computing in Secure Circulation of Data](https://sem.bupt.edu.cn/info/1354/7821.htm)

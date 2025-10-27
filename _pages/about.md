@@ -26,6 +26,7 @@ Email: sybupt@bupt.edu.cn
 
 **Note**: I’m actively looking for self-motivated students and researchers to collaborate on frontier topics in Information Security and World Model related research. If you’re interested in my research directions, please feel free to reach out to me.
 
+**Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*” in **CMC-Computers, Materials and Continua** which leaded by Dr. Yi SUN and Dr. Limei PENG.

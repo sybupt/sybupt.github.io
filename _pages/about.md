@@ -29,7 +29,7 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 We have lunached a special issue on “*Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems*” which leaded by Sunil Prajapat, Ali Kashif Bashir, Ashok Kumar Das and Yi SUN! **Start: December 2025, Submissions Deadline: March 30, 2026**
+- *2025.11*: &nbsp;🎉🎉 We have lunached a special issue on [“*Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems*”]((https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Proactive%20Threat%20Hunting%20and%20Anomaly%20Detection%20in%20Consumer%20Electronics%20for%20Next-Generation%20Intelligent%20Systems.pdf)) which leaded by Sunil Prajapat, Ali Kashif Bashir, Ashok Kumar Das and Yi SUN! **Start: December 2025, Submissions Deadline: March 30, 2026**
 - *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*” in **CMC-Computers, Materials and Continua** which leaded by Yi SUN and Limei PENG!
 - *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by **Information Fusion**! 
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
@@ -57,9 +57,10 @@ Email: sybupt@bupt.edu.cn
 - **Associate Editor**: **Computing Open**
 - **Guest Editor**: **Electronic Markets**, [Smart e-commerce integration with recommender systems](https://link.springer.com/collections/aeccbbfhbg),17 May 2019.
 - **Guest Editor**: **ACM/Springer Mobile Networks and Applications**, [Intelligent Industrial IoT Integration with Cognitive Computing](https://link.springer.com/article/10.1007/s11036-017-0939-1#citeas), October 2017.
+- **Guest Editor**: **Sustainability**, [Security Technology-Driven Development for Sustainable Networks](https://www.mdpi.com/journal/sustainability/special_issues/develop_sustainable_networks), 30 March 2023.
 - **Guest Editor**: **Big Data and Cognitive Computing**, [Privacy-Enhancing Technologies of Data for Sustainable and Secure Cooperation](https://www.mdpi.com/journal/BDCC/special_issues/TNNE8FQZ0), 30 March 2024.
 - **Guest Editor**: **Computational Intelligence and Neuroscience**, [Advances in Medical Imaging Informatics with Artificial Intelligence and Big Data Analytics](https://onlinelibrary.wiley.com/doi/toc/10.1155/8483.si.458912?msockid=20820ee7212664952bae1c662008654), 18 September 2024.
-- **Guest Editor**: **Sustainability**, [Security Technology-Driven Development for Sustainable Networks](https://www.mdpi.com/journal/sustainability/special_issues/develop_sustainable_networks), 30 March 2023.
+- **Guest Editor**: **IEEE Transactions on Consumer Electronics**, [Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Proactive%20Threat%20Hunting%20and%20Anomaly%20Detection%20in%20Consumer%20Electronics%20for%20Next-Generation%20Intelligent%20Systems.pdf), December 2025.
 - **Area Chair**: [ICAIIC-2023(The 5th International Conference on Artificial Intelligence in Information and Communication)](2023.icaiic.org).
 - **Area Chair**: [ISAICS-2025(The 2th International Conference on Artificial Intelligence and Cybersecurity)](https://s.eqxiu.com/s/SZVwzsY9?bt=yxy&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986).
 - **Area Chair**: [ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security](www.bctis.net).

@@ -29,7 +29,8 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*” in **CMC-Computers, Materials and Continua** which leaded by Dr. Yi SUN and Dr. Limei PENG.
+- *2025.11*: &nbsp;🎉🎉 We have lunached a special issue on “*Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems*” which leaded by Sunil Prajapat, Ali Kashif Bashir, Ashok Kumar Das and Yi SUN! **Start: December 2025, Submissions Deadline: March 30, 2026**
+- *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on “*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*” in **CMC-Computers, Materials and Continua** which leaded by Yi SUN and Limei PENG!
 - *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by **Information Fusion**! 
 - *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**!  
 - *2024.12*: &nbsp;🎉🎉 Congratulations to Renhai DONG, the paper about combined side-channel and transient execution attack scheme on RISC-V processors has been accepted by **Computers and Security**!

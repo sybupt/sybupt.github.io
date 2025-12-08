@@ -29,6 +29,8 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI and Chao WANG, their papers are awarded as the **Best Paper** in the 5th International Conference on Blockchain Technology and Information Security (IEEE ICBCTIS 2025) ! 
+- *2025.02*: &nbsp;🎉🎉 Congratulations to Zirun ZHAO, the paper ADPF has been accepted by **Computer Networks**! 
 - *2025.11*: &nbsp;🎉🎉 We have lunached a special issue on [“*Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems*”](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Proactive%20Threat%20Hunting%20and%20Anomaly%20Detection%20in%20Consumer%20Electronics%20for%20Next-Generation%20Intelligent%20Systems.pdf) in **IEEE Transactions on Consumer Electronics**, which leaded by Sunil Prajapat, Ali Kashif Bashir, Ashok Kumar Das and Yi SUN! **Start: December 2025, Submission Deadline: March 30, 2026**
 - *2025.09*: &nbsp;🎉🎉 We have lunached a special issue on [“*Privacy-Enhancing Technologies for Secure Data Cooperation and Circulation*”](https://www.techscience.com/cmc/special_detail/secure-data-cooperation#:~:text=Privacy-enhancing%20technologies%2C%20which%20are%20digital%20solutions%20that%20allow,conduct%20joint%20data%20analysis%20in%20a%20privacy-friendly%20manner.) in **CMC-Computers, Materials and Continua**, which leaded by Yi SUN and Limei PENG! **Start: September, 2025, Submission Deadline: 30 June, 2026**
 - *2025.05*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper about differentially private synthetic data generation has been accepted by **Information Fusion**! 
@@ -68,6 +70,10 @@ Email: sybupt@bupt.edu.cn
 - **TPC/PC**: **IEEE GLOBECOM 2021-WS01**, CME-2020&2021, DSC-2019, CAIML-2021, ICNCIS-2021, **33rd USENIX Security-2024**.
 
 # 📚 Publications 
+
+- BC-TMICP: A Blockchain-based Transitional Medical Image Copyright Protection Scheme From Centralization to Decentralization, Xiaohong CAI, Yi SUN, Chao WANG, Tianwei CAI, Yusong CHEN, Guangyu XU, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
+
+- End-to-End Secure Code Repair with Context-Aware Anonymization and Isolated Agent Execution, Chao Wang, Zan Zhou, Chaopeng Wang, Yi Sun, Shujie Yang, Yujiao Yuan, Lin Jia, Xu Xiang, Zhiyuan Han, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">

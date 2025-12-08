@@ -70,9 +70,9 @@ Email: sybupt@bupt.edu.cn
 
 # 📚 Publications 
 
-- BC-TMICP: A Blockchain-based Transitional Medical Image Copyright Protection Scheme From Centralization to Decentralization, Xiaohong CAI, Yi SUN, Chao WANG, Tianwei CAI, Yusong CHEN, Guangyu XU, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
+- BC-TMICP: A Blockchain-based Transitional Medical Image Copyright Protection Scheme From Centralization to Decentralization, Xiaohong CAI, **Yi SUN***, Chao WANG, Tianwei CAI, Yusong CHEN, Guangyu XU, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
 
-- End-to-End Secure Code Repair with Context-Aware Anonymization and Isolated Agent Execution, Chao Wang, Zan Zhou, Chaopeng Wang, Yi Sun, Shujie Yang, Yujiao Yuan, Lin Jia, Xu Xiang, Zhiyuan Han, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
+- End-to-End Secure Code Repair with Context-Aware Anonymization and Isolated Agent Execution, Chao Wang, Zan Zhou, Chaopeng Wang, **Yi SUN***, Shujie Yang, Yujiao Yuan, Lin Jia, Xu Xiang, Zhiyuan Han, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">

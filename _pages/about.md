@@ -67,8 +67,9 @@ Email: sybupt@bupt.edu.cn
 - **Guest Editor**: **IEEE Transactions on Consumer Electronics**, [Proactive Threat Hunting and Anomaly Detection in Consumer Electronics for Next-Generation Intelligent Systems](https://s3-us-west-2.amazonaws.com/clarivate-scholarone-prod-us-west-2-s1m-public/wwwRoot/prod1/societyimages/tce-ieee/TCE_SS_CFP_Proactive%20Threat%20Hunting%20and%20Anomaly%20Detection%20in%20Consumer%20Electronics%20for%20Next-Generation%20Intelligent%20Systems.pdf), December 2025.
 - **Guest Editor**: **Journal of Engineering, Project, and Production Management (EPPM-Journal)**, [Agentic AI-Driven Decision Making in Complex Engineering and Project Environments](http://www.ppml.url.tw/EPPM_Journal/volumns/Special_Issue_9/Special_Issue_9.htm), December 2025.
 - **Area Chair**: [ICAIIC-2023(The 5th International Conference on Artificial Intelligence in Information and Communication)](2023.icaiic.org).
-- **Area Chair**: [ISAICS-2025(The 2th International Conference on Artificial Intelligence and Cybersecurity)](https://s.eqxiu.com/s/SZVwzsY9?bt=yxy&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986).
-- **Area Chair**: [ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security](www.bctis.net).
+- **Area Chair**: [ISAICS-2025(The 2th International Conference on Artificial Intelligence and Cybersecurity,Bengbu,China,Oct24-26,2025)](https://s.eqxiu.com/s/SZVwzsY9?bt=yxy&eip=true&share_level=1&from_user=20250528a1d2c90c&from_id=de8f33fe-a&share_time=1755048980986).
+- **Area Chair**: [ICBCTIS 2025(The 5th International Conference on Blockchain Technology and Information Security,Zhengzhou,China,Dec4-5,2026)](www.bctis.net).
+- **Track Chair**:[BDPC 2026(The 4th International Conference on Big Data and Privacy Computing,Beijing,China,May29-31,2026)](https://www.icbd.org/cfp.html).
 - **TPC/PC**: **40th AAAI-2026**,**33rd USENIX Security-2024**,**IEEE GLOBECOM 2021-WS01**,CME-2020&2021,CAIML-2021,ICNCIS-2021,DSC-2019.
 
 # 📚 Publications 

@@ -80,6 +80,14 @@ Email: sybupt@bupt.edu.cn
 
 - End-to-End Secure Code Repair with Context-Aware Anonymization and Isolated Agent Execution, Chao Wang, Zan Zhou, Chaopeng Wang, **Yi SUN***, Shujie Yang, Yujiao Yuan, Lin Jia, Xu Xiang, Zhiyuan Han, The 5th International Conference on Blockchain Technology and Information Security(IEEE ICBCTIS 2025), Accepted, **Best Paper**, 2025
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Tianwei.png' alt="sym" width="100%"> </div></div>
+<div class='paper-box-text' markdown="1">
+  
+- TerseChain: A Stateless UTXO-Based Blockchain with Sharding Support, Tianwei CAI, **Yi SUN***, Chao WANG, Zhaowen LIN, Xueyun ZENG, Xiaohong CAI, Yijing LIN, **IEEE Transactions on Network Science and Engineering**, **2026**.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/Cai2.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
   

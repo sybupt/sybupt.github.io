@@ -29,6 +29,7 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Congratulations to Tianwei CAI, his paper "TerseChain: A Stateless UTXO-Based Blockchain with Sharding Support" has been accepted by **IEEE Transactions on Network Science and Engineering**! 
 - *2026.01*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper "Variance Constrained Distribution Alignment in Few-shot Models" has been accepted by **AISTATS 2026(The 29th International Conference on Artificial Intelligence and Statistics)**! 
 - *2025.12*: &nbsp;🎉🎉 We have lunached a special issue on [“*Agentic AI-Driven Decision Making in Complex Engineering and Project Environments*”](http://www.ppml.url.tw/EPPM_Journal/volumns/Special_Issue_9/Special_Issue_9.htm) in **Journal of Engineering, Project, and Production Management (EPPM-Journal)**, which leaded by Sunil Prajapat and Yi SUN! **Start: January 2026, Submission Deadline: July 2026**.
 - *2025.12*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI and Chao WANG, their papers are awarded as the **Best Paper** in the 5th International Conference on Blockchain Technology and Information Security (IEEE ICBCTIS 2025) ! 

@@ -83,7 +83,7 @@ Email: sybupt@bupt.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/Tianwei.png' alt="sym" width="100%"> </div></div>
 <div class='paper-box-text' markdown="1">
   
-- TerseChain: A Stateless UTXO-Based Blockchain with Sharding Support, Tianwei CAI, **Yi SUN***, Chao WANG, Zhaowen LIN, Xueyun ZENG, Xiaohong CAI, Yijing LIN, **IEEE Transactions on Network Science and Engineering**, **2026**.
+- TerseChain: A Stateless UTXO-Based Blockchain with Sharding Support, [**X(Twitter)**:](https://x.com/IEEE_TNSE/status/2019341821013643715?s=20)[**LinkedIn**:](https://www.linkedin.com/posts/ieee-tnse_new-research-accepted-in-ieee-transactions-activity-7425107764496171008-wCf1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFd_QNEBa9JjtEKJC94FNsUX1xsHNkyEZ-4), Tianwei CAI, **Yi SUN***, Chao WANG, Zhaowen LIN, Xueyun ZENG, Xiaohong CAI, Yijing LIN, **IEEE Transactions on Network Science and Engineering**, **2026**.
 
 </div>
 </div>

@@ -29,8 +29,8 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our project **EyeFocus** is online. Welcome to visit and invest in it.[https://sybupt.github.io/EyeFocus/]
-- *2026.05*: &nbsp;🎉🎉 Our project **Word Hunt Range** is online. Welcome to visit and invest in it.[https://sybupt.github.io/Word-Hunt-Range/]
+- *2026.05*: &nbsp;🎉🎉 Our project [**EyeFocus**](https://sybupt.github.io/EyeFocus/) is online. Welcome to visit and invest in it. Link: https://sybupt.github.io/EyeFocus/
+- *2026.05*: &nbsp;🎉🎉 Our project [**Word Hunt Range**](https://sybupt.github.io/Word-Hunt-Range/) is online. Welcome to visit and invest in it. Link: https://sybupt.github.io/Word-Hunt-Range/
 - *2026.03*: &nbsp;🎉🎉 We have lunached a special issue on [“*Next-Generation Web 3.0 Architectures for Scalable Distributed Information Systems*”](https://publications.eai.eu/index.php/sis/ngwa) in **EAI Endorsed Transactions on Scalable Information Systems**, which leaded by Sunil Prajapat, Yi SUN, Farhana Javed and Jacopo Iannacci! **Start: January 2026, Submission Deadline: June 2026**.
 - *2026.02*: &nbsp;🎉🎉 Congratulations to Tianwei CAI, his paper "TerseChain: A Stateless UTXO-Based Blockchain with Sharding Support" has been accepted by **IEEE Transactions on Network Science and Engineering**! [**X(Twitter)**](https://x.com/IEEE_TNSE/status/2019341821013643715?s=20) and [**LinkedIn**](https://www.linkedin.com/posts/ieee-tnse_new-research-accepted-in-ieee-transactions-activity-7425107764496171008-wCf1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFd_QNEBa9JjtEKJC94FNsUX1xsHNkyEZ-4) 
 - *2026.01*: &nbsp;🎉🎉 Congratulations to Xiaohong CAI, her paper "Variance Constrained Distribution Alignment in Few-shot Models" has been accepted by **AISTATS 2026(The 29th International Conference on Artificial Intelligence and Statistics)**! 

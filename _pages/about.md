@@ -29,6 +29,7 @@ Email: sybupt@bupt.edu.cn
 **Note**: My recent research focuses on the following question: What happens if we apply a "force" to data? Herein, the "force" refers to any possible strategy, like a force with direction that can act on an object, causing it to move forward, descend, rotate, and so on.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 We have lunached a special issue on [“*Agent-Based Autonomous Networking for Mobile Ad Hoc Networks*”](https://www.sciencedirect.com/special-issue/333696/agent-based-autonomous-networking-for-mobile-ad-hoc-networks) in **Ad Hoc Networks**, which leaded by Ashok Kumar A. K. Das, Sunil Prajapat, Jacopo IANNACCI, Sachin Shetty and Yi SUN! **Start: May 2026, Submission Deadline: October 2027**.
 - *2026.05*: &nbsp;🎉🎉 Our project [**EyeFocus**](https://sybupt.github.io/EyeFocus/) is online. Welcome to visit and invest in it. Link: https://sybupt.github.io/EyeFocus/
 - *2026.05*: &nbsp;🎉🎉 Our project [**Word Hunt Range**](https://sybupt.github.io/Word-Hunt-Range/) is online. Welcome to visit and invest in it. Link: https://sybupt.github.io/Word-Hunt-Range/
 - *2026.03*: &nbsp;🎉🎉 We have lunached a special issue on [“*Next-Generation Web 3.0 Architectures for Scalable Distributed Information Systems*”](https://publications.eai.eu/index.php/sis/ngwa) in **EAI Endorsed Transactions on Scalable Information Systems**, which leaded by Sunil Prajapat, Yi SUN, Farhana Javed and Jacopo Iannacci! **Start: January 2026, Submission Deadline: June 2026**.
